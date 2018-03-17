@@ -6,7 +6,7 @@ when using this library you can get movies download urls easily
 Usage
 =====
 
-Make a search for movie,which named '功夫',using movie-searcher
+Make a search for movie,for example,which named '功夫',using movie-searcher
 
 .. code-block:: pycon
 
